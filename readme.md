@@ -21,7 +21,8 @@ The model weight already included.
 ## Training
 
 For further training, you can access our **zhihu** for details, click
-[here](http://zhuanlan.zhihu.com/ai-man)
+[here](http://zhuanlan.zhihu.com/ai-man), We will opensource the whole codes later as well as
+training on hands joint estimation. Just stay tuned.
 
 
 ## Reference
