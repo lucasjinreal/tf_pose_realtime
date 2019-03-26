@@ -5,6 +5,11 @@ It can runs almost **50fps** on GTX1080 - A realtime version of pose estimation.
 run:
 
 ```
+# some dependencies incase you are not installed
+sudo pip3 install alfred-py
+sudo pip3 install slidingwindow
+# to pafprocess and run make.sh
+
 python3 demo.py
 ```
 
