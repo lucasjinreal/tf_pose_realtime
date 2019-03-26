@@ -1,0 +1,34 @@
+# TensorFlow Pose Realtime
+
+This a openpose version which using a lightweighted backend of MobileNetV2 with some modifications.
+It can runs almost **50fps** on GTX1080 - A realtime version of pose estimation. Here you can simply
+run:
+
+```
+python3 demo.py
+```
+
+And you will got this result:
+
+<p align="center">
+  <img src="https://s2.ax1x.com/2019/03/26/ANOJRf.gif">
+</p>
+
+
+
+The model weight already included.
+
+## Training
+
+For further training, you can access our **zhihu** for details, click
+[here](http://zhuanlan.zhihu.com/ai-man)
+
+
+## Reference
+
+this work based on original implementation of `ildoonet`,  thanks for original author excellent
+work.. We made some changes to original code which contains whole structure and some training codes.
+
+## License
+
+this work release under Apache 2.0 License.
